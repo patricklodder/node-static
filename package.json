@@ -6,10 +6,10 @@
   "author"        : "Alexis Sellier <self@cloudhead.net>",
   "contributors"  : [],
   "licenses"      : ["MIT"],
-  "dependencies"  : [],
+  "dependencies"  : {},
   "lib"           : "lib",
   "main"          : "./lib/node-static",
-  "version"       : "0.5.9",
+  "version"       : "0.5.10",
   "directories"   : { "test": "./test" },
   "engines"       : { "node": ">= 0.4.1" }
 }
